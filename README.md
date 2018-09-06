@@ -1,6 +1,8 @@
 # better-jamf-printer-policy
 A better way for Jamf Pro Admins to add and remove printers.
 
+Many thanks to [haircut](https://github.com/haircut "Haircut's Github") for the inspiration for this from his excellent repo [better-jamf-policy-deferral](https://github.com/haircut/better-jamf-policy-deferral "better-jamf-policy-deferral GitHub repo").
+
 ## Why a different process?
 For whatever reason, Jamf has never made it easy for us to edit existing printer definitions. There is no current way through the web interface or API to modify the printer definitions. The only way to tinker with them *in situ* is to crack open the DB and start modifying tables. This is not even an option for cloud-hosted Jamf Pro environments.
 
