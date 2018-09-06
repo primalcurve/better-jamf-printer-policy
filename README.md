@@ -27,6 +27,6 @@ $ lpadmin -p <printer_name> -o printer-option="Value" -E -v uri://printer_addres
 
 ### How do I use it?
 
-Simply create a new policy, add the script, and then fill out the parameters. If you need help getting the pieces, check out the Docs.
+Simply create a new policy, add the script, and then fill out the parameters. If you need help getting the pieces, check out the [Wiki](https://github.com/primalcurve/better-jamf-printer-policy/wiki).
 
 There are a couple of things you will need besides the printer installation policy, but please see the Docs for information on that.
